@@ -15,7 +15,7 @@ in sort, this project explains the algorithm by using user entered example
 
 ------------------------------------------------------------------------------------------------------------------------------------
 
---> While using this project do give credits
+--> While using this project do give credits  
 --> If having any problem with thus code feel free to mail me at "singhdevendra818@gmail.com"
 
 ------------------------------------------------------------------------------------------------------------------------------------

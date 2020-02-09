@@ -20,8 +20,10 @@ in sort, this project explains the algorithm by using user entered example
 
 ------------------------------------------------------------------------------------------------------------------------------------
 
-																													snippits
-																													
-																													
-![level1](https://github.com/enigmaOfficial/Hackertest.net-Ctfs/blob/master/Level%201/level1.PNG)																													
+							Snippits
+
+![Picture1](https://github.com/enigmaOfficial/enigma_learner/blob/master/Snipps/Picture1.png)
+![Picture2](https://github.com/enigmaOfficial/enigma_learner/blob/master/Snipps/Picture2.png)
+![Picture3](https://github.com/enigmaOfficial/enigma_learner/blob/master/Snipps/Picture3.png)
+![Picture4](https://github.com/enigmaOfficial/enigma_learner/blob/master/Snipps/Picture4.png)
 
